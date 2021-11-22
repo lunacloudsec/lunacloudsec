@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lunacloudsec
 - 👀 I’m interested in Cloud Security and DevSecOps
-- 🌱 I’m currently learning Azure (AZ-104) and AWS
+- 🌱 I’m currently learning Azure and AWS
 
 <!---
 lunacloudsec/lunacloudsec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
